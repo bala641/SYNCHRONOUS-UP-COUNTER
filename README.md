@@ -37,8 +37,8 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 5.Repeat steps 2-4 for each bit you want to input and shift.
 **PROGRAM**
-# NAME:THIRUKUMARAN G
-# REG NO:212223050056
+# NAME:BALA B
+# REG NO:249002438
 ```
 module e11(out,clk,rst);
 input clk,rst;
